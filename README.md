@@ -26,6 +26,8 @@ A few files will be generated. Most relavant ones are:
     - S_test: clean speech used for test
     - X_test: mixed speech used for test
     - D_test: denoised speech from X_test
+    
+Listen to the audio samples [here](https://soundcloud.com/mu-yang-974011976/sets/auto-encoder-audio-denoiser)!
 
 By listening to "X_train.wav" and "D_train.wav", we can see that the training speech is cleaned up pretty well. 
 
